@@ -33,3 +33,4 @@ THEN the password is either displayed in an alert or written to the page
 ![03-javascript-homework-demo](https://github.com/CodyCCL/My-password-generator/assets/142187489/a4418a9a-3591-44a4-b898-ee4b0eeb8be5)
 
 ## Link to deployed Application
+https://codyccl.github.io/My-password-generator/
